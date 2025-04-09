@@ -6,7 +6,7 @@ spring:
     name: user-service
   
   datasource:
-    url: jdbc:mysql://localhost:3306/nikita-lab-spring-cloud-config?createDatabaseIfNotExist=true
+    url: jdbc:mysql://localhost:3306/your_db
     username: root
     password: root
     driver-class-name: com.mysql.cj.jdbc.Driver
